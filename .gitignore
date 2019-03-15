@@ -1,4 +1,5 @@
 #ingore all files and folders
 /*
+*/
 !.gitignore
 !mac_2.1/
